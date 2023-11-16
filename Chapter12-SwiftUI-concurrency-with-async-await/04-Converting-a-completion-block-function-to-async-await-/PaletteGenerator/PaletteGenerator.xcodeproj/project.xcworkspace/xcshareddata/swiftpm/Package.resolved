@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lorikeet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gscalzo/Lorikeet",
+      "state" : {
+        "revision" : "aac5abe9e781f1d0977de9b307648ec4052ad7a2",
+        "version" : "0.2.27"
+      }
+    }
+  ],
+  "version" : 2
+}

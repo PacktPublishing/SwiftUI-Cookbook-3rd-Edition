@@ -1,0 +1,233 @@
+[
+  {
+    "city": "Austin, TX",
+    "climate": [
+      {
+        "month": "Jan-22",
+        "rainfall": 56,
+        "high": 16,
+        "low": 5
+      },
+      {
+        "month": "Feb-22",
+        "rainfall": 51,
+        "high": 18,
+        "low": 7
+      },
+      {
+        "month": "Mar-22",
+        "rainfall": 70,
+        "high": 22,
+        "low": 11
+      },
+      {
+        "month": "Apr-22",
+        "rainfall": 53,
+        "high": 27,
+        "low": 15
+      },
+      {
+        "month": "May-22",
+        "rainfall": 112,
+        "high": 30,
+        "low": 19
+      },
+      {
+        "month": "Jun-22",
+        "rainfall": 110,
+        "high": 33,
+        "low": 22
+      },
+      {
+        "month": "Jul-22",
+        "rainfall": 48,
+        "high": 35,
+        "low": 24
+      },
+      {
+        "month": "Aug-22",
+        "rainfall": 60,
+        "high": 36,
+        "low": 24
+      },
+      {
+        "month": "Sep-22",
+        "rainfall": 76,
+        "high": 33,
+        "low": 21
+      },
+      {
+        "month": "Oct-22",
+        "rainfall": 99,
+        "high": 28,
+        "low": 16
+      },
+      {
+        "month": "Nov-22",
+        "rainfall": 75,
+        "high": 22,
+        "low": 10
+      },
+      {
+        "month": "Dec-22",
+        "rainfall": 61,
+        "high": 17,
+        "low": 6
+      }
+    ]
+  },
+  {
+    "city": "New York, NY",
+    "climate": [
+      {
+        "month": "Jan-22",
+        "rainfall": 91,
+        "high": 4,
+        "low": -2
+      },
+      {
+        "month": "Feb-22",
+        "rainfall": 81,
+        "high": 6,
+        "low": -1
+      },
+      {
+        "month": "Mar-22",
+        "rainfall": 109,
+        "high": 10,
+        "low": 2
+      },
+      {
+        "month": "Apr-22",
+        "rainfall": 104,
+        "high": 17,
+        "low": 8
+      },
+      {
+        "month": "May-22",
+        "rainfall": 102,
+        "high": 22,
+        "low": 13
+      },
+      {
+        "month": "Jun-22",
+        "rainfall": 114,
+        "high": 27,
+        "low": 18
+      },
+      {
+        "month": "Jul-22",
+        "rainfall": 117,
+        "high": 29,
+        "low": 21
+      },
+      {
+        "month": "Aug-22",
+        "rainfall": 117,
+        "high": 28,
+        "low": 21
+      },
+      {
+        "month": "Sep-22",
+        "rainfall": 109,
+        "high": 24,
+        "low": 17
+      },
+      {
+        "month": "Oct-22",
+        "rainfall": 112,
+        "high": 18,
+        "low": 11
+      },
+      {
+        "month": "Nov-22",
+        "rainfall": 91,
+        "high": 12,
+        "low": 6
+      },
+      {
+        "month": "Dec-22",
+        "rainfall": 112,
+        "high": 7,
+        "low": 1
+      }
+    ]
+  },
+  {
+    "city": "Seattle, WA",
+    "climate": [
+      {
+        "month": "Jan-22",
+        "rainfall": 132,
+        "high": 9,
+        "low": 2
+      },
+      {
+        "month": "Feb-22",
+        "rainfall": 99,
+        "high": 10,
+        "low": 3
+      },
+      {
+        "month": "Mar-22",
+        "rainfall": 84,
+        "high": 12,
+        "low": 4
+      },
+      {
+        "month": "Apr-22",
+        "rainfall": 50,
+        "high": 15,
+        "low": 6
+      },
+      {
+        "month": "May-22",
+        "rainfall": 38,
+        "high": 19,
+        "low": 9
+      },
+      {
+        "month": "Jun-22",
+        "rainfall": 36,
+        "high": 22,
+        "low": 12
+      },
+      {
+        "month": "Jul-22",
+        "rainfall": 16,
+        "high": 25,
+        "low": 14
+      },
+      {
+        "month": "Aug-22",
+        "rainfall": 19,
+        "high": 26,
+        "low": 14
+      },
+      {
+        "month": "Sep-22",
+        "rainfall": 42,
+        "high": 22,
+        "low": 12
+      },
+      {
+        "month": "Oct-22",
+        "rainfall": 99,
+        "high": 16,
+        "low": 8
+      },
+      {
+        "month": "Nov-22",
+        "rainfall": 160,
+        "high": 11,
+        "low": 5
+      },
+      {
+        "month": "Dec-22",
+        "rainfall": 145,
+        "high": 8,
+        "low": 3
+      }
+    ]
+  }
+]
